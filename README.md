@@ -1,28 +1,28 @@
 # LeetCode Solutions
 
-This repository contains my solutions to LeetCode problems. Each solution is organized by problem number and includes the problem description, solution approach, and implementation.
+This repository contains my solutions to LeetCode problems. Each solution is organized by problem name and includes the problem description, solution approach, and implementation.
 
 ## Structure
 
-- Solutions are organized by problem number and name
+- Solutions are organized by problem name
 - Solutions are written in Python
 
 ## Problems Solved
 
 ### Easy
-- [ ] 1. Two Sum
+- [x] 1. Two Sum - Hash Map approach with O(n) time complexity
 
 ### Medium
-- [ ] (Coming soon)
+- [x] 2. Add Two Numbers - Elementary math with carry handling
 
 ### Hard
-- [ ] (Coming soon)
+- [ ] 
 
 ## Progress Tracking
 
-- Total Problems Solved: 0
-- Easy: 0
-- Medium: 0  
+- Total Problems Solved: 2
+- Easy: 1
+- Medium: 1  
 - Hard: 0
 
 ---
