@@ -29,15 +29,6 @@ Constraints:
 
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
-        """
-        Approach: Hash Map
-        Time Complexity: O(n)
-        Space Complexity: O(n)
-        
-        We use a hash map to store each number and its index as we iterate through the array.
-        For each number, we check if (target - current_number) exists in our hash map.
-        If it does, we've found our pair.
-        """
         num_map = {}  # value -> index
         
         for i, num in enumerate(nums):
@@ -46,7 +37,7 @@ class Solution:
                 return [num_map[complement], i]
             num_map[num] = i
         
-        return []  # No solution found (though problem guarantees one exists)
+        return []  
 
 # Test cases
 def test_two_sum():
