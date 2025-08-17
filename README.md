@@ -17,14 +17,14 @@ This repository contains my solutions to LeetCode problems. Each solution is org
 - [x] 3. Longest Substring Without Repeating Characters - Sliding window with hash set
 
 ### Hard
-- [ ] 
+- [x] 4. Median of Two Sorted Arrays
 
 ## Progress Tracking
 
-- Total Problems Solved: 3
+- Total Problems Solved: 4
 - Easy: 1
 - Medium: 2  
-- Hard: 0
+- Hard: 1
 
 ---
 
