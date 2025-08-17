@@ -38,15 +38,6 @@ class ListNode:
         
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        """
-        Approach: Elementary Math
-        Time Complexity: O(max(M, N)) where M and N are the lengths of l1 and l2
-        Space Complexity: O(max(M, N)) for the result linked list
-        
-        We traverse both linked lists simultaneously, adding corresponding digits
-        and handling carry. We continue until both lists are exhausted and
-        there's no remaining carry.
-        """
         dummy_head = ListNode(0)
         current = dummy_head
         carry = 0
