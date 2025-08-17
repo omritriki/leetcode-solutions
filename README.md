@@ -14,15 +14,16 @@ This repository contains my solutions to LeetCode problems. Each solution is org
 
 ### Medium
 - [x] 2. Add Two Numbers - Elementary math with carry handling
+- [x] 3. Longest Substring Without Repeating Characters - Sliding window with hash set
 
 ### Hard
 - [ ] 
 
 ## Progress Tracking
 
-- Total Problems Solved: 2
+- Total Problems Solved: 3
 - Easy: 1
-- Medium: 1  
+- Medium: 2  
 - Hard: 0
 
 ---
